@@ -1,4 +1,5 @@
 ## Computational Linguistics Project
+[CL_Montecchiari_Project.pdf](https://github.com/memonji/Computational_Linguistics_2022-23/files/14138862/CL_Montecchiari_Project.pdf)
 
 **Title:** Investigating the Alignment of Quantitative and Qualitative Literary Analysis in American Literature
 
@@ -58,5 +59,3 @@ To achieve these objectives, I have undertaken the following steps:
 5. **Appendix 2:**
    - Graphs of the results for the complexity indices.
    - Graphs of the results for the cosine similarity measures.
-
-[CL_Montecchiari_Project.pdf](https://github.com/memonji/Computational_Linguistics_2022-23/files/14138862/CL_Montecchiari_Project.pdf)
